@@ -45,8 +45,8 @@ The **Employee Management System** is a web application built using Spring Boot 
 ### Steps  
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/your-username/Employee-Management-System.git  
-   cd Employee-Management-System  
+   git clone https://github.com/Ayush-Puri/Employee-Management-Backend-Web
+   cd Employee-Management-Backend-Web  
    ```  
 
 2. Configure the database:  
